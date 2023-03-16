@@ -1,7 +1,7 @@
 //make a header function that does the same thing as before. 
 //use callback function as a prop called onDarkModeClick
 
-import React, { useState } from "react";
+import React from "react";
 
 function Header({ onDarkModeClick, isDarkMode }) {
 
